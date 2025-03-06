@@ -1,0 +1,1 @@
+//These are some fun projects where I apply my learning and experiment with Python. Each project is an opportunity to explore different concepts, improve my skills, and create useful or entertaining tools.
